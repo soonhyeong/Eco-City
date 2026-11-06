@@ -1,0 +1,7 @@
+{
+  "name": "EcoCity.Core",
+  "rootNamespace": "EcoCity.Core",
+  "references": [],
+  "autoReferenced": true,
+  "noEngineReferences": true
+}
