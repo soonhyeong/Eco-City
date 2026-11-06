@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c502b76711ea3d145a059472da20a762, type: 3}
+  m_Name: composite-01
+  m_EditorClassIdentifier: Assembly-CSharp::EcoCity.WasteDefinition
+  displayName: "\uBCF5\uD569 \uC7AC\uC9C8 \uAC00\uC0C1 \uC5F0\uC2B5\uD488"
+  targetBin: 6
+  requiredPreparation: 2
+  level: 2
+  stateDescription: "\uC5EC\uB7EC \uC7AC\uC9C8\uC774 \uC11E\uC778 \uAC00\uC0C1 \uC5F0\uC2B5\uD488\uC774\uC5D0\uC694.
+    \uC774 \uC5F0\uC2B5\uC5D0\uC11C\uB9CC \uBD84\uB9AC \uD6C4 \uC77C\uBC18\uC73C\uB85C
+    \uBC30\uCD9C\uD574\uC694."
+  fictionalPractice: 1
+  sourceUrl: https://www.korea.kr/briefing/policyBriefingView.do?newsId=148852389
+  sourceCheckedDate: 2026-10-21
+  applicableRegion: "\uBBF8\uD655\uC815: \uAC00\uC0C1 \uC5F0\uC2B5 \uADDC\uCE59"
+  educationalReason: "\uC774 \uC5F0\uC2B5\uD488\uB9CC\uC758 \uAC00\uC0C1 \uC815\uB2F5\uC774\uC5D0\uC694.
+    \uBAA8\uB4E0 \uBCF5\uD569 \uD3EC\uC7A5\uC7AC\uAC00 \uAC19\uC740 \uC218\uAC70\uD568\uC73C\uB85C
+    \uAC00\uB294 \uAC83\uC740 \uC544\uB2C8\uC5D0\uC694."
+  sourceNote: "\uAC00\uC0C1 \uC5F0\uC2B5 \uADDC\uCE59. \uB300\uD55C\uBBFC\uAD6D \uC815\uCC45\uBE0C\uB9AC\uD551
+    2018-07-24 '\uB0B4 \uC190\uC548\uC5D0 \uC4F0\uB808\uAE30 \uCC38\uACE0\uC11C \uC788\uB2E4'\uC758
+    \uBD84\uB9AC\uBC30\uCD9C \uC77C\uBC18 \uC6D0\uCE59\uB9CC \uCC38\uACE0. \uD488\uBAA9\uBCC4
+    \uC815\uB2F5\xB7\uC0C9\uC0C1\xB7\uD604\uC7AC \uC9C0\uC5ED \uC870\uAC74\uC744
+    \uAC80\uC99D\uD55C \uADFC\uAC70\uAC00 \uC544\uB2D8. \uB300\uC0C1 \uC9C0\uC5ED
+    \uBBF8\uD655\uC815."
